@@ -7,7 +7,7 @@
 # If you are trying to optimise this code (that you probably won't be able to)
 # Please add how much time you spent on this in this counter:
 
-# Hours_Spent_On_This_Code = 2
+# Hours_Spent_On_This_Code = 3
 
 from time import sleep as wait
 
