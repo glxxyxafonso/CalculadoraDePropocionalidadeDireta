@@ -1,4 +1,4 @@
-# Version 1.2a
+# Version 2.0
 # Code available in English at https://github.com/glxxyxafonso/
 
 # Dear programmer,
@@ -46,6 +46,7 @@ def checamento_de_proporcionalidade():
 
 print("Boas-vindas à Calculadora de Proporcionalidade Direta!")
 print("Código disponível no Github - https://github.com/glxxyxafonso")
+print("V2 feita por https://github.com/jpedrodias - Obrigado :)")
 wait(2)
 
 done = False
