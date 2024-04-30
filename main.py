@@ -1,4 +1,4 @@
-# Version 1.0
+# Version 1.1
 # Code available in English at https://github.com/glxxyxafonso/
 
 # Dear programmer,
