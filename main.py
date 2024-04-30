@@ -11,7 +11,7 @@
 
 from time import sleep as wait
 
-print("Boas-vindas á Calculadora de Propocionalidade Direta!")
+print("Boas-vindas á Calculadora de Proporcionalidade Direta!")
 print("Código disponível no Github - https://github.com/glxxyxafonso")
 wait(2)
 
@@ -29,11 +29,11 @@ print()
 numtworesult = float(numtwotwo) / float(numtwo) # Repeti a mesma coidsa que na linha 9. 
 
 if numtworesult == numoneresult:
-  print("No momento, é uma propocionalidade direta.")
+  print("No momento, é uma proporcionalidade direta.")
   print()
   print("Vamos continuar.")
 else: 
-  print("Não é uma propocionalidade direta.")
+  print("Não é uma proporcionalidade direta.")
   print("Obrigado por teres usado esta calculadora!")
   quit()
 
@@ -43,10 +43,10 @@ numthreetwo = input("Insira o terceiro f(X): ")
 numthreeresult = float(numthreetwo) / float(numthree)
 
 if numthreeresult == numoneresult:
-  print("No momento, é uma propocionalidade direta.")
+  print("No momento, é uma proporcionalidade direta.")
   print()
   print("Vamos continuar.")
 else:
-  print("Não é uma propocionalidade direta.")
+  print("Não é uma proporcionalidade direta.")
   print("Obrigado por teres usado esta calculadora!")
   quit()
