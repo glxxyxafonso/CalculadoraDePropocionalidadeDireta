@@ -1,4 +1,4 @@
-# Version 1.2
+# Version 1.2a
 # Code available in English at https://github.com/glxxyxafonso/
 
 # Dear programmer,
@@ -158,4 +158,4 @@ if numtenresult == numoneresult:
 else:
   print("Não é uma propocionalidade direta.")
   print("Obrigado por teres usado esta calculadora!")
-  quit()x
+  quit() # Havia um X aqui. Removido na V1.2a
