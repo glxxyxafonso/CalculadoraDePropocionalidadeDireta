@@ -17,14 +17,14 @@ wait(2)
 
 print("Antes de começarmos, preciso de uma valor de base para a constante de proporcionalidade direta.")
 
-x = float(input("Insira o valor de X: "))
-y = float(input("Insira o valor de f(X): "))
+x = float(input("Insira o valor de X: ")) # Temos de ter um X de base para efetuar a calculação.
+y = float(input("Insira o valor de f(X): ")) # e também um f(X).
 
 k = y / x
-print("Temos um valor de base, que é", k)
+print("Temos um valor de base, que é", k) # O valor de base será o resultado de y a dividir por x
 
-while True:
-    x2 = float(input("Insira o valor de X:"))
+while True: # loop
+    x2 = float(input("Insira o valor de X:")) 
     y2 = float(input("Insira o valor de f(X)"))
     k2 = y2 / x2
     
